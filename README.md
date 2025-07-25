@@ -75,7 +75,6 @@ Or use Colab’s secret manager for safer handling.
 
 * Instruction tuning
 * Domain-specific chatbot adaptation
-* Dataset examples (can be customized by the user)
 
 ---
 
